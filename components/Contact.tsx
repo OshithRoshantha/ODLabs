@@ -79,7 +79,7 @@ const Contact = () => {
           >
             <h3 className="text-3xl font-bold text-dark mb-6">Contact Information</h3>
             <p className="text-bodyText mb-8 leading-relaxed">
-              Ready to start your project? Reach out to us and let's discuss how we can help
+              Ready to start your project? Reach out to us and let&apos;s discuss how we can help
               transform your ideas into reality.
             </p>
 

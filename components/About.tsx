@@ -47,7 +47,7 @@ const About = () => {
               Innovation Meets Excellence
             </h3>
             <p className="text-bodyText mb-4 leading-relaxed">
-              At OD Labs, we're passionate about leveraging the latest technologies to create
+              At OD Labs, we&apos;re passionate about leveraging the latest technologies to create
               transformative digital solutions. Our experienced dedicated team works collaboratively to deliver exceptional results.
             </p>
             <p className="text-bodyText mb-8 leading-relaxed">
