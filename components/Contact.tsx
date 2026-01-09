@@ -65,7 +65,7 @@ const Contact = () => {
             Get In Touch
           </h2>
           <p className="text-lg md:text-xl text-bodyText">
-            Let's Build Something Amazing Together
+            Let&apos;s Build Something Amazing Together
           </p>
         </motion.div>
 
