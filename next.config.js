@@ -5,6 +5,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  basePath: '/ODLabs',
+  assetPrefix: '/ODLabs',
 }
 
 module.exports = nextConfig
