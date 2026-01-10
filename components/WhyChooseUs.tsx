@@ -2,7 +2,7 @@
 
 import { motion } from 'framer-motion'
 import { useInView } from 'react-intersection-observer'
-import { FaRocket, FaUsers, FaShieldAlt, FaClock, FaChartLine, FaHandshake } from 'react-icons/fa'
+import { FaRocket, FaUsers, FaShieldAlt, FaClock, FaChartLine } from 'react-icons/fa'
 
 interface Reason {
   icon: React.ReactNode
@@ -46,12 +46,6 @@ const WhyChooseUs = () => {
       title: 'Scalable Solutions',
       description:
         'Build for today, scale for tomorrow. Our solutions are designed to grow seamlessly with your business needs.',
-    },
-    {
-      icon: <FaHandshake className="text-4xl" />,
-      title: 'Long-term Partnership',
-      description:
-        'We&apos;re not just vendors; we&apos;re your technology partners committed to your success beyond project delivery.',
     },
   ]
 

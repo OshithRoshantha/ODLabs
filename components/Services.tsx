@@ -22,8 +22,8 @@ const Services = () => {
       icon: <FaCode className="text-4xl" />,
       title: 'Software Development',
       description:
-        'Custom software solutions tailored to your business needs. From enterprise applications to mobile apps, we build robust, scalable software that drives efficiency.',
-      features: ['Custom Applications', 'Mobile Development', 'API Integration', 'System Modernization'],
+        'Custom software solutions tailored to your business needs. From enterprise applications to complex systems, we build robust, scalable software that drives efficiency.',
+      features: ['Custom Applications', 'API Integration', 'System Modernization'],
     },
     {
       icon: <FaCode className="text-4xl" />,
