@@ -67,8 +67,7 @@ const Hero = () => {
             transition={{ delay: 0.5, duration: 0.8 }}
             className="text-base md:text-lg lg:text-xl text-bodyText max-w-3xl mx-auto mb-10 leading-relaxed"
           >
-            We specialize in cutting-edge Website Development, AI/ML Solutions, and Cloud Infrastructure
-            to accelerate your business growth
+            We specialize in cutting-edge Website & Software Development, AI/ML Solutions, and Cloud Infrastructure to accelerate your business growth
           </motion.p>
 
           {/* CTA Buttons */}
